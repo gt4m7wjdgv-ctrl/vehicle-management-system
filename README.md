@@ -1,21 +1,26 @@
-# Vehicle Management System
+# Vehicle Listing, Reservation and Contract Management System
 
-A web-based vehicle management system.
+## 1. Product Description
+A web-based system for managing vehicle listings, reservations, and contracts.
 
-## Project Description
-This project helps users view and manage vehicle listings.
+## 2. Problem Statement
+Managing vehicle information, reservations, and contracts manually can be time-consuming and may cause errors. This system organizes vehicle information and reservation and contract records in one place.
 
-## Features
-- View available vehicles
-- Add new vehicles
-- Edit vehicle information
-- Delete vehicles
-- Search for vehicles
+## 3. Main Features
+- Display a list of vehicles
+- View vehicle details and prices
+- Search and filter vehicles
+- Check vehicle availability
+- Register and manage reservations
+- Create and manage contracts
+- Track reservation and contract status
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+## 4. Target Users
+- Vehicle business owners
+- Employees who manage vehicles and reservations
+- Customers who want to view and reserve vehicles
 
-## Installation
-Download or clone the repository and open index.html in your browser.
+## 5. Proposed Technologies
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python
+- Database: SQLite
