@@ -24,3 +24,24 @@ Managing vehicle information, reservations, and contracts manually can be time-c
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python
 - Database: SQLite
+## Project Planning Documentation
+
+| No. | Document | Status |
+|---|---|---|
+| 1 | Client Request | Completed |
+| 2 | System Request | Completed |
+| 3 | Feasibility Study | Completed |
+| 4 | Project Charter | Completed |
+
+## Project Description
+
+This project is designed to manage vehicle listings,
+purchase requests, reservations and contracts.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
